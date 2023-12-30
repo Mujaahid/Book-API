@@ -37,6 +37,15 @@ let books = [
         rating: 4.7,
         comments: 'Classic detective stories featuring Sherlock Holmes and Dr. Watson.',
       },
+      {
+        id: uuidv4(),
+        title: 'The Alchemist',
+        author: 'Paulo Coelho',
+        genre: 'Fantasy Fiction',
+        year: 1988,
+        rating: 3.9,
+        comments: 'The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller.',
+      },
 ];
 
 // Routes
