@@ -55,6 +55,15 @@ let books = [
         rating: 4.3,
         comments: 'The Aleph and Other Stories is a book of short stories by Argentine writer Jorge Luis Borges. The title work, "The Aleph", describes a point in space that contains all other spaces at once.',
       },
+          {
+        id: uuidv4(),
+        title: 'The Aleph and Other Stories',
+        author: 'Jorge Luis Borges',
+        genre: 'Fantasy',
+        year: 1949,
+        rating: 4.3,
+        comments: 'The Aleph and Other Stories is a book of short stories by Argentine writer Jorge Luis Borges. The title work, "The Aleph", describes a point in space that contains all other spaces at once.',
+      },
 ];
 
 // Routes
