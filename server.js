@@ -57,12 +57,12 @@ let books = [
       },
           {
         id: uuidv4(),
-        title: 'The Aleph and Other Stories',
-        author: 'Jorge Luis Borges',
-        genre: 'Fantasy',
-        year: 1949,
-        rating: 4.3,
-        comments: 'The Aleph and Other Stories is a book of short stories by Argentine writer Jorge Luis Borges. The title work, "The Aleph", describes a point in space that contains all other spaces at once.',
+        title: "Aesop's Fables",
+        author: 'Aesop',
+        genre: 'Fable',
+        year: 1500,
+        rating: 4.2,
+        comments: "Aesop's Fables, or the Aesopica, is a collection of fables credited to Aesop, a slave and storyteller who lived in ancient Greece between 620 and 564 BCE",
       },
 ];
 
