@@ -64,6 +64,15 @@ let books = [
         rating: 4.2,
         comments: "Aesop's Fables, or the Aesopica, is a collection of fables credited to Aesop, a slave and storyteller who lived in ancient Greece between 620 and 564 BCE",
       },
+     {
+        id: uuidv4(),
+        title: "Alice's Adventures in Wonderlands",
+        author: 'Lewis Carroll',
+        genre: 'Fiction',
+        year: 1865,
+        rating: 4.2,
+        comments: "It details the story of a young girl named Alice who falls through a rabbit hole into a fantasy world of anthropomorphic creatures. It is seen as an example of the literary nonsense genre.",
+      },
 ];
 
 // Routes
