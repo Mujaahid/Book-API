@@ -80,7 +80,7 @@ let books = [
         genre: 'Fiction',
         year: 1865,
         rating: 4.5,
-        comments: "It details the story of a young girl named Alice who falls through a rabbit hole into a fantasy world of anthropomorphic creatures. It is seen as an example of the literary nonsense genre.",
+        comments: "Anna Karenina is a novel by the Russian author Leo Tolstoy, first published in book form in 1878. Considered to be one of the greatest works of literature ever written, Tolstoy himself called it his first true novel.",
       },
 ];
 
