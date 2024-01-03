@@ -78,7 +78,7 @@ let books = [
         title: "Anna Karenina",
         author: 'Leo Tolstoy',
         genre: 'Fiction',
-        year: 1865,
+        year: 1878,
         rating: 4.5,
         comments: "Anna Karenina is a novel by the Russian author Leo Tolstoy, first published in book form in 1878. Considered to be one of the greatest works of literature ever written, Tolstoy himself called it his first true novel.",
       },
