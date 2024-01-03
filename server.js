@@ -73,6 +73,15 @@ let books = [
         rating: 4.5,
         comments: "It details the story of a young girl named Alice who falls through a rabbit hole into a fantasy world of anthropomorphic creatures. It is seen as an example of the literary nonsense genre.",
       },
+         {
+        id: uuidv4(),
+        title: "Alice's Adventures in Wonderlands",
+        author: 'Lewis Carroll',
+        genre: 'Fiction',
+        year: 1865,
+        rating: 4.5,
+        comments: "It details the story of a young girl named Alice who falls through a rabbit hole into a fantasy world of anthropomorphic creatures. It is seen as an example of the literary nonsense genre.",
+      },
 ];
 
 // Routes
