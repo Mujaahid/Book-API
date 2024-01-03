@@ -76,7 +76,7 @@ let books = [
          {
         id: uuidv4(),
         title: "Anna Karenina",
-        author: 'Lewis Carroll',
+        author: 'Leo Tolstoy',
         genre: 'Fiction',
         year: 1865,
         rating: 4.5,
