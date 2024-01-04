@@ -85,7 +85,7 @@ let books = [
     {
         id: uuidv4(),
         title: "Anne of Green Gables",
-        author: 'Leo Tolstoy',
+        author: 'L.M. Montgomery',
         genre: 'Novel',
         year: 1878,
         rating: 4.1,
