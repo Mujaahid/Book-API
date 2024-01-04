@@ -87,7 +87,7 @@ let books = [
         title: "Anne of Green Gables",
         author: 'L.M. Montgomery',
         genre: 'Novel',
-        year: 1878,
+        year: 1908,
         rating: 4.3,
         comments: "Anne of Green Gables is a 1908 novel by Canadian author Lucy Maud Montgomery. Written for all ages, it has been considered a classic children's novel since the mid-20th century.",
     },
