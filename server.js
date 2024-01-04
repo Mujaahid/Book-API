@@ -88,8 +88,8 @@ let books = [
         author: 'L.M. Montgomery',
         genre: 'Novel',
         year: 1878,
-        rating: 4.1,
-        comments: "Anna Karenina is a novel by the Russian author Leo Tolstoy, first published in book form in 1878. Considered to be one of the greatest works of literature ever written, Tolstoy himself called it his first true novel.",
+        rating: 4.3,
+        comments: "Anne of Green Gables is a 1908 novel by Canadian author Lucy Maud Montgomery. Written for all ages, it has been considered a classic children's novel since the mid-20th century.",
     },
 ];
 
